@@ -1,2 +1,2 @@
 # odin-recipes
-A fake recipe site, made to learn web development from The Odin Project.
+A fake recipe site, made to learn web development from [The Odin Project](https://www.theodinproject.com).
