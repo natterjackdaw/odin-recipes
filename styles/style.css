@@ -1,5 +1,15 @@
+/* 
+Colour scheme
+-------------
+Dark coffee: #1C110A
+Oxidized iron: #9B2915
+Tropical teal: #50A2A7
+Honey bronze: #E9B44C
+Vanilla custard: #E4D6A7
+*/
+
 body {
-    background-color: #251101;
+    background-color: black;
     color: white;
     font-family: Verdana, 'Trebuchet MS', sans-serif;
 }
@@ -9,10 +19,10 @@ h1 {
 }
 
 a {
-    color: #5688C7
+    color: #E9B44C;
 }
 a:hover {
-    color: white;
+    color: #E4D6A7;
 }
 
 .intro {
@@ -25,11 +35,11 @@ a:hover {
 
 .recipe-option {
     /* display: inline; */
-    background-color: #470024; 
+    background-color: #251101; 
     margin: 0.5em auto;
     padding: 5px;
     border-radius: 0.2em;
-    border: 2px solid #5B1865;
+    border: 2px solid #50A2A7;
     text-align: center;
     width: 10em;
 }
@@ -41,8 +51,8 @@ a:hover {
 figure {
     margin: 2px auto;
     padding: 2em;
-    border: 2px solid #5B1865;
-    background-color: #470024;
+    border: 2px solid #50A2A7;
+    background-color: #1C110A;
     width: 20em;
     border-radius: 0.2em;
     text-align: center;
@@ -51,6 +61,6 @@ figure {
 img {
     width: 200px;
     margin: 0 auto;
-    border: 2px solid #2C5784;
+    border: 2px solid #9B2915;
     border-radius: 0.2em
 }
