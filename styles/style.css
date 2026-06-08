@@ -1,0 +1,56 @@
+body {
+    background-color: #251101;
+    color: white;
+    font-family: Verdana, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    color: #5688C7
+}
+a:hover {
+    color: white;
+}
+
+.intro {
+    margin: 2em
+}
+
+.container {
+    margin: 20px;
+}
+
+.recipe-option {
+    /* display: inline; */
+    background-color: #470024; 
+    margin: 0.5em auto;
+    padding: 5px;
+    border-radius: 0.2em;
+    border: 2px solid #5B1865;
+    text-align: center;
+    width: 10em;
+}
+
+.recipe-option a:hover {
+    color: white;
+}
+
+figure {
+    margin: 2px auto;
+    padding: 2em;
+    border: 2px solid #5B1865;
+    background-color: #470024;
+    width: 20em;
+    border-radius: 0.2em;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    margin: 0 auto;
+    border: 2px solid #2C5784;
+    border-radius: 0.2em
+}
