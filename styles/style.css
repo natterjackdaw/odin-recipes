@@ -9,7 +9,7 @@ Vanilla custard: #E4D6A7
 */
 
 body {
-    background-color: black;
+    background-color: #343434;
     color: white;
     font-family: Verdana, 'Trebuchet MS', sans-serif;
 }
@@ -19,10 +19,10 @@ h1 {
 }
 
 a {
-    color: #E9B44C;
+    color: #FFE66D;
 }
 a:hover {
-    color: #E4D6A7;
+    color: #F7FFF7;
 }
 
 .intro {
@@ -35,11 +35,11 @@ a:hover {
 
 .recipe-option {
     /* display: inline; */
-    background-color: #251101; 
+    background-color: #2F3061; 
     margin: 0.5em auto;
     padding: 5px;
     border-radius: 0.2em;
-    border: 2px solid #50A2A7;
+    border: 2px solid #FFE66D;
     text-align: center;
     width: 10em;
 }
@@ -51,8 +51,8 @@ a:hover {
 figure {
     margin: 2px auto;
     padding: 2em;
-    border: 2px solid #50A2A7;
-    background-color: #1C110A;
+    border: 2px solid #6CA6C1;
+    background-color: #2F3061;
     width: 20em;
     border-radius: 0.2em;
     text-align: center;
@@ -61,6 +61,6 @@ figure {
 img {
     width: 200px;
     margin: 0 auto;
-    border: 2px solid #9B2915;
+    border: 2px solid #FFE66D;
     border-radius: 0.2em
 }
